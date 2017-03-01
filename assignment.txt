@@ -1,15 +1,34 @@
 1. Select an organization that the student likes to work on. 
-2. Collect information about this organization and type it and then analyze it. 
-3. Design an ER model for this organization according to the information you collected. 
-4. Convert your ER model to a set of schemas. 
-5. Convert your set of schemas to BCNF. Show the work and proof that the final result is in dead in BCNF not just say that your tables are in BCNF. 
-6. Use a DBMS to create a DB for your selected organization. Create a table for each schema. Include
-about 3-5 attribute for each schema. 
-7. Enter 10-15 tuples in each of your tables. 
-8. Print every table in a nice tabular form. 
-9. Run a set of queries on your DB. 
-10. Query has three parts. For each query, indicate in English what information you are trying to retrieve, the actual sql query and its result to show your it works correctly. 
-11. Submit a few pages of report to indicate what you learned from this project and the problems that you had (if any), hard copy of every thing, plus your DB on a disk for grading. 
-12. Your submission must be included in binder with a cover page indicating the name of Database, The DBMS used, Project #, Course#, Semester and student’s name. The content of your binder/folder must follow the order of the instruction.
 
-Note: The student is responsible for getting / buying the software DBMS which selects to use.
+2. Collect information about this organization and type it and then analyze it.
+ 
+3. Design an ER model for this organization according to the information you 
+   collected. 
+
+4. Convert your ER model to a set of schemas. 
+
+5. Convert your set of schemas to BCNF. Show the work and proof that the final
+   result is in dead in BCNF not just say that your tables are in BCNF.
+ 
+6. Use a DBMS to create a DB for your selected organization. Create a table 
+   for each schema. Include about 3-5 attribute for each schema. 
+7. Enter 10-15 tuples in each of your tables. 
+
+8. Print every table in a nice tabular form. 
+
+9. Run a set of queries on your DB. 
+
+10. Query has three parts. For each query, indicate in English what information
+    you are trying to retrieve, the actual sql query and its result to show 
+    your it works correctly. 
+
+11. Submit a few pages of report to indicate what you learned from this 
+    project and the problems that you had (if any), hard copy of every thing, 
+    plus your DB on a disk for grading. 
+12. Your submission must be included in binder with a cover page indicating 
+    the name of Database, The DBMS used, Project #, Course#, Semester and 
+    student’s name. The content of your binder/folder must follow the order of
+    the instruction.
+
+Note: The student is responsible for getting / buying the software DBMS which
+ selects to use.
