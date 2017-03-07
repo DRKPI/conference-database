@@ -1,0 +1,29 @@
+                                Rubric for Project 1 Evaluation		
+Submit your project in hard copy in some kind of binder with a cover page.		
+The cover page must have your name, course #, semester, title of your database, 		
+the DBMS that you used, and instructor name.		
+	                                                                                          Possible points
+Interview and Description. 	                                                                          10	
+Write down the result of your interview.
+
+ER Diagram, include the cardinalities and attributes.	                                                  15	
+
+Schema. Convert you ER diagram to schema. 	                                                          15	
+Show all primary keys and foreign keys
+
+Normalization. Show all functional dependencies and convert you schema to BCNF. 	                  10	
+If your schema is in BCNF, you need to show that it is in BCNF
+
+Create tables for your schemas. Insert about 10-15 rows in each table.	                                  15	
+Show all SQL commands for definition and creation of  tables and loading data
+
+Tables content. Print the entire content for every table with table name.	                          10	
+		
+Write minimum 5 SQL Queries to retrieve information from you tables and execute them.	                  15	
+For each query, give the english statement to indicate what you are trying to retieve, 		
+The SQL query, and the result of the query.
+
+Final Report. Write about two pages of report to indicate your experiences, the dificulties 	           10	
+that you had (if any), any suggestion that you may have.		
+		
+                                                                                      Total               100	
